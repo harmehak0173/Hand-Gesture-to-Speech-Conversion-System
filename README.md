@@ -1,1 +1,1 @@
-# RECOGNISING-GESTURES-WITH-MAGIC-HANDS-INCLUDING-TEXT-TO-SPEECH
+# Hand Gesture-to-Speech Conversion System
